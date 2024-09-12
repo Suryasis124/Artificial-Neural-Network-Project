@@ -1,0 +1,1 @@
+Here we shall use Artificial Neural Network with a singgle hidden layer for the multiclass classification problem of handwritten digit recognition. We shall use the MNIST dataset, available in 'keras' to train our model.
